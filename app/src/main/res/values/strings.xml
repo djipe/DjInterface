@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Interface DJ</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_refresh">Actualiser</string>
+    <string name="btn_connect_spotify">Connexion DJ Spotify</string>
+    <string name="btn_clear_list">Effacer la liste</string>
+    <string name="btn_add_queue">✅ Ajouter à la File</string>
+    <string name="btn_ignore">❌ Ignorer</string>
+    <string name="no_requests">Aucune demande en attente.</string>
+    <string name="loading">Chargement…</string>
+    <string name="error_network">Impossible de joindre le serveur.</string>
+    <string name="confirm_clear_title">Confirmation</string>
+    <string name="confirm_clear_message">Effacer TOUTES les demandes de titres ?</string>
+    <string name="yes">Oui, effacer</string>
+    <string name="cancel">Annuler</string>
+    <string name="requested_by">Demandé par : %1$s à %2$s</string>
+
+    <!-- Paramètres -->
+    <string name="pref_notif_enabled">Notifications activées</string>
+    <string name="pref_notif_enabled_summary">Alerter quand une demande attend depuis trop longtemps</string>
+    <string name="pref_notif_delay_title">Délai avant alerte (minutes)</string>
+    <string name="pref_notif_type_title">Type de notification</string>
+    <string name="pref_notif_type_vibration">Vibration</string>
+    <string name="pref_notif_type_sound">Bip sonore</string>
+    <string name="pref_notif_type_both">Vibration + Bip</string>
+    <string name="pref_notif_type_visual">Visuel uniquement</string>
+    <string name="pref_snooze_title">Désactiver les notifications pour 12h</string>
+    <string name="pref_snooze_summary">Reprend automatiquement après 12 heures</string>
+    <string name="snooze_active_until">Notifications suspendues jusqu\'à %1$s</string>
+    <string name="notif_channel_name">Demandes de titres</string>
+    <string name="notif_channel_desc">Alertes pour les demandes en attente de validation</string>
+    <string name="notif_title">Demande(s) en attente</string>
+    <string name="notif_text">%1$d demande(s) attendent depuis plus de %2$d min</string>
+</resources>

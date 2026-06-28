@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="spotify_green">#1DB954</color>
+    <color name="spotify_green_light">#1ED760</color>
+    <color name="bg_dark">#202020</color>
+    <color name="bg_card">#282828</color>
+    <color name="bg_item">#333333</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#BBBBBB</color>
+    <color name="red_delete">#E74C3C</color>
+    <color name="red_delete_dark">#C0392B</color>
+    <color name="gray_skip">#888888</color>
+    <color name="gray_skip_dark">#666666</color>
+    <color name="status_bar">#121212</color>
+</resources>
